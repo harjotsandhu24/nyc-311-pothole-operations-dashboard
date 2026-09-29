@@ -84,5 +84,6 @@ Each script prints its results to the terminal so they can be checked
 against the numbers in this README and in `docs/methodology.md`.
 
 ## Live project
+This analysis is presented as an interactive dashboard on my portfolio.
 
-View this project on my portfolio →
+[View this project on my portfolio →](https://harjotsandhu.com/work/nyc-311-pothole-dashboard)
