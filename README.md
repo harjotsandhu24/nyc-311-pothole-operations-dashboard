@@ -86,4 +86,4 @@ against the numbers in this README and in `docs/methodology.md`.
 ## Live project
 
 This analysis is presented as an interactive dashboard on my portfolio:
-_[add link to harjotsandhu.com/projects/nyc-311-pothole-dashboard once live]_
+https://harjotsandhu.com/work/nyc-311-pothole-dashboard
